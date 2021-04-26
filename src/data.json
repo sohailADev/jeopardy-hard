@@ -1,0 +1,20 @@
+ [
+    {
+      "id":"1",
+      "color": "purple",
+      "type": "minivan",
+      "capacity": 7
+    },
+    {
+      "id":"2",
+      "color": "red",
+      "type": "station wagon",
+      "capacity": 5
+    },
+    {
+        "id":"3",
+        "color": "red",
+        "type": "cabrio",
+        "capacity": 2
+      }
+  ]
